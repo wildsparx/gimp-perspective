@@ -44,7 +44,12 @@ to complete a wireframe of a vertical cylinder such as a round tower.
 * Set "Draw vertical lines" to Yes
 * Click OK
 
-
-
+## Using perspective-grid
+* Use just once while setting up drawing
+* Set the brush size and hardness, for example size 4, hardness 50
+* Choose Tools/Perspective/Grid
+* Set the vanishing points off the canvas an appropriate amount
+* Set the horizon height to where you want the horizon line - use the scale at the left edge of the canvas.
+* Click OK
 
 
