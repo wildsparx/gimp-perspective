@@ -3,6 +3,8 @@ Plugins for perspective drawing in GIMP
 
 Copyright (C) 2015 Asher Blum
 
+http://wildsparx.com/gimp-perspective/
+
 ## Installation
 
 On Linux and Mac, find your gimp plugins directory, such as ~/gimp-2.8/plug-ins
@@ -52,4 +54,8 @@ to complete a wireframe of a vertical cylinder such as a round tower.
 * Set the horizon height to where you want the horizon line - use the scale at the left edge of the canvas.
 * Click OK
 
+
+## perspective-extract
+
+Extracts the perspective grid from an existing image
 
